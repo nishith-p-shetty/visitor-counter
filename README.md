@@ -1,6 +1,6 @@
 # visitor-counter
 This project keeps track of your page visitors.
-![](https://visit-counter.nps1.workers.dev//api?name=visitor-counter&operation=increment)
+![](https://visit-counter.nps1.workers.dev/api?name=visitor-counter&operation=increment)
 
 # USAGE
 
