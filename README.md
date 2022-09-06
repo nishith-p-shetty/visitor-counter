@@ -11,7 +11,7 @@ This project keeps track of your page visitors.
 #### Show Visitor Count
 
 ```http
-  GET /api?name=bhu&operation=show
+  GET /api?name=test&operation=show
 ```
 
 | Parameter  | Type     | Description                |
@@ -22,7 +22,7 @@ This project keeps track of your page visitors.
 #### Increment Visitor Count
 
 ```http
-  GET /api?name=bhu&operation=increment
+  GET /api?name=test&operation=increment
 ```
 
 | Parameter  | Type     | Description                |
@@ -33,7 +33,7 @@ This project keeps track of your page visitors.
 #### Update Visitor Count to Required Value
 
 ```http
-  GET /api/?name=bhu&operation=update&value=100
+  GET /api/?name=test&operation=update&value=100
 ```
 
 | Parameter  | Type     | Description                |
@@ -45,7 +45,7 @@ This project keeps track of your page visitors.
 #### Reset Visitor Count to 0
 
 ```http
-  GET /api?name=bhu&operation=reset
+  GET /api?name=test&operation=reset
 ```
 
 | Parameter  | Type     | Description                |
@@ -56,7 +56,7 @@ This project keeps track of your page visitors.
 #### Delete Visitor Count
 
 ```http
-  GET /api?name=bhu&operation=delete
+  GET /api?name=test&operation=delete
 ```
 
 | Parameter  | Type     | Description                |
