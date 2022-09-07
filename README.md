@@ -1,4 +1,4 @@
-# visitor-counter![](https://visitor-counter.nishithpshetty.tk/api?name=visitor-counter&operation=increment)
+# visitor-counter ![](https://visitor-counter.nishithpshetty.tk/api?name=visitor-counter&operation=increment)
 This project keeps track of your page visitors.
 
 # USAGE
