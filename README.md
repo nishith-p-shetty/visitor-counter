@@ -1,5 +1,5 @@
 # visitor-counter
-This project keeps track of your page visitors.
+This project keeps track of your page visitors.</br>
 ![](https://visitor-counter.nishithpshetty.tk/api?name=visitor-counter&operation=increment)
 
 # USAGE
