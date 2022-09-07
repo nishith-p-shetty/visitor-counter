@@ -1,12 +1,12 @@
 # visitor-counter
 This project keeps track of your page visitors.
-![](https://visitor-counter.nishithpshetty.ml/api?name=visitor-counter&operation=increment)
+![](https://visitor-counter.nishithpshetty.tk/api?name=visitor-counter&operation=increment)
 
 # USAGE
 
 ## API Reference
 
-#### URL = https://https://visitor-counter.nishithpshetty.ml//
+#### URL = https://visitor-counter.nishithpshetty.tk/
 
 #### Show Visitor Count
 
