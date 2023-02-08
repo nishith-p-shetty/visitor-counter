@@ -1,6 +1,6 @@
 name = "visit-counter"
+compatibility_date = "2023-02-08"
 main = "src/index.js"
-compatibility_date = "2022-09-06"
 kv_namespaces = [
   { binding = "visitors", id = "YOUR-KV-ID-HERE" }
 ]
