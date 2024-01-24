@@ -5,7 +5,7 @@ This project keeps track of your page visitors.
 
 ## API Reference
 
-#### URL = https://visitor-counter.nishithpshetty.tk/
+#### URL = https://visitor-ctr.nishithpshetty.tk/
 
 #### Show Visitor Count
 
